@@ -12,9 +12,6 @@ import {
 
 import React, { useState, useEffect } from 'react';
 
-//import API
-import Api from '../../services/Api';
-
 //import material icons
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 
